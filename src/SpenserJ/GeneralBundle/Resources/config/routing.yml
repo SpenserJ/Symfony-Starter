@@ -1,3 +1,0 @@
-SpenserJGeneralBundle_index:
-    pattern:  /
-    defaults: { _controller: SpenserJGeneralBundle:General:index }
