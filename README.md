@@ -41,6 +41,7 @@ Run the following commands:
 ### d) Install the default database structure
 
     php app/console doctrine:schema:update --force
+    php app/console init:acl
 
 ### e) Create your account
 
