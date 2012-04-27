@@ -12,8 +12,8 @@ Run the following commands:
     git clone --origin SpenserJ-Symfony-Starter http://github.com/SpenserJ/Symfony-Starter.git project_name
     cd project_name
 
-2) Configure as a fresh git repository
---------------------------------------
+2) Add your remote git repository
+---------------------------------
 
     git remote add origin your_git_url_here
     git add .
